@@ -1,0 +1,72 @@
+[
+    {
+        "title" : "Product 1",
+        "productId" : "111-000",
+        "price" : 150,
+        "image" : "product_1.jpg",
+        "colors" : ["red", "blue", "green"] 
+    },
+    {
+        "title" : "Product 2",
+        "productId" : "222-000",
+        "price" : 450,
+        "image" : "product_2.jpg",
+        "colors" : ["red", "maroon", "green"] 
+    },
+    {
+        "title" : "Product 3",
+        "productId" : "333-000",
+        "price" : 55,
+        "image" : "product_3.jpg",
+        "colors" : ["red", "yellow", "green"] 
+    },
+    {
+        "title" : "Product 4",
+        "productId" : "444-000",
+        "price" : 150,
+        "image" : "product_4.jpg",
+        "colors" : ["red", "blue", "green"] 
+    },
+    {
+        "title" : "Product 5",
+        "productId" : "555-000",
+        "price" : 25,
+        "image" : "product_5.jpg",
+        "colors" : ["black", "blue", "green"] 
+    },
+    {
+        "title" : "Product 1",
+        "productId" : "111-000",
+        "price" : 150,
+        "image" : "product_1.jpg",
+        "colors" : ["red", "blue", "green"] 
+    },
+    {
+        "title" : "Product 2",
+        "productId" : "222-000",
+        "price" : 450,
+        "image" : "product_2.jpg",
+        "colors" : ["red", "maroon", "green"] 
+    },
+    {
+        "title" : "Product 3",
+        "productId" : "333-000",
+        "price" : 55,
+        "image" : "product_3.jpg",
+        "colors" : ["red", "yellow", "green"] 
+    },
+    {
+        "title" : "Product 4",
+        "productId" : "444-000",
+        "price" : 150,
+        "image" : "product_4.jpg",
+        "colors" : ["red", "blue", "green"] 
+    },
+    {
+        "title" : "Product 5",
+        "productId" : "555-000",
+        "price" : 25,
+        "image" : "product_5.jpg",
+        "colors" : ["black", "blue", "green"] 
+    }
+]

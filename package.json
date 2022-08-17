@@ -1,0 +1,15 @@
+{
+  "name": "mcdm-profil-boiler-opgave",
+  "version": "1.0.0",
+  "description": "```\r En opgave der samler op på det vi har arbejdet med i denne første uge.\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
